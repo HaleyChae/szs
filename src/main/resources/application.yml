@@ -31,7 +31,7 @@ springdoc:
     url: /3o3/v3/api-docs
     disable-swagger-default-url: true
     tags-sorter: alpha
-    operations-sorter: alpha
+    operations-sorter: alpha-reverse
   paths-to-match:
     - /szs/**
 jwt:
