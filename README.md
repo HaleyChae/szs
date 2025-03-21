@@ -1,4 +1,4 @@
-1. Swagger UI : http://localhost:8080/h2-console
+1. Swagger UI : http://localhost:8080/3o3/swagger.html
 2. H2 : http://localhost:8080/h2-console
 3. 회원 가입 가능한 사용자 정보
    1. 사용자 정보는 /data/member.csv 파일로 설정합니다.
